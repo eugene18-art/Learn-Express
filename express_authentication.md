@@ -18,3 +18,7 @@ _[source](https://medium.com/@sarthakmittal1461/to-build-login-sign-up-and-logou
     * nodemon : It’s my favorite and it led to automatically restarting of our node application when any changes occur in our app.
 
 * Install mongodb from [here](https://www.mongodb.com/try/download/community?tck=docs_server)
+* Need absolute require
+  ```
+  npm install app-module-path
+  ```
